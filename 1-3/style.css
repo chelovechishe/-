@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+    background-color: lightslategray;
+}
+header {
+    background-color: darkslateblue;
+
+}
+a {
+    text-decoration: none;
+    color: darkslategray;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+}
+b {
+    color: yellow;
+}
+h1 {
+  color: yellow;
+ background-color: darkslateblue;
+ margin: 10px;
+ border-radius: 5px;
+ text-align: center;
+}
+footer {
+    background-color: darkslateblue;
+}
+footer p {
+    background-color: lightslategrey;
+    border: ;
+}
+header a {
+    color: darkorange;
+}
+nav {
+    border-radius: 10px;
+    text-align: center;
+    margin: 20px;
+    padding: 5px;
+    background-color: darkslategrey;
+}
+nav a {
+    margin: 10px;
+    color: snow;
+}
+p {
+    border-radius: 10px;
+    margin: 15px;
+    padding: 10px;
+    background-color: thistle;
+}
+h2 {
+    color: darkblue;
+}
+img{
+    border-radius: 20px;
+}
