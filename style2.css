@@ -1,0 +1,79 @@
+body {
+    font-family: sans-serif;
+    background-image: -webkit-linear-gradient(top, darkblue, white, orange);
+}
+header {
+    background-color: rgba(0, 19, 189, 1);
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+}
+header h1 {
+    color: white;
+    text-align: center;
+}
+.logo {
+    height: 100px;
+    width: 100px;
+    margin: -10px;
+}
+header a {
+    color: black;
+    border: 3px solid;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 0px 3px 3px 3px;
+    text-decoration: none;
+    background-color: white;
+}
+body {
+  
+}
+
+h3 {
+    text-align: center;
+   
+}
+.picture1 {
+   border-radius: 5px;
+   margin: 50px;
+   text-align: center;
+}
+p {
+    border: 1px solid;
+}
+a {
+  text-decoration: none;
+}
+table {
+  margin-left: 20px;
+  text-align: center;
+}
+.table1 {
+    width: 140px;
+    height: 140px;
+    background-color: white;
+    border-radius: 10px;
+}
+.table2 {
+    padding: 47px 20px 27px 20px;
+    width: 140px;
+    height: 140ppx;
+    background-color: white;
+    border-radius: 10px;
+}
+.table3 {
+    width: 140px;
+    height: 140ppx;
+    background-color: white;
+    border-radius: 10px;
+    padding: 47px 20px 19px 20px;
+}
+footer {
+    background-color: black;
+}
+.number {
+    background-color: white;
+    border: 10px solid;
+    margin-left: 10px;
+}
